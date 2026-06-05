@@ -12,11 +12,6 @@ I enjoy building practical tools and systems, from embedded electronics and debu
 - Applied cryptography and post-quantum digital signatures
 - Research involving secure communication and performance-sensitive cryptographic systems
 
-## Featured Projects
-
-### SOKO
-A low-latency, high-throughput post-quantum signature framework for time-critical communication systems.
-
 ## Background
 
 My background combines computer engineering, physics, embedded development, and cybersecurity. I am especially interested in building secure systems that connect theory with real-world implementation, whether through hardware, software, or cryptographic protocol design.
